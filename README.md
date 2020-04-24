@@ -1,8 +1,8 @@
-# Cardula binary repo 
+# Mango binary repo 
 
 ## Application 
 
-This is a small cross platform (Mac - W10) to play videos and photos easily.
+This is a small cross platform (Mac, W10 and Linux) to play videos and photos easily.
 
 It will open a player in full screen on the second monitor (or TV) and you can show the photos or videos there.
 
@@ -29,25 +29,5 @@ Load all photos and videos from a folder or add a signle item.
   * Escape key
     Stops the image or video.
   * Space bar
-    Switch between hide and show image in the player.
-
-### Cardula-mu
-
-Drag and drop a photo or a video to play it.
-
-**Help**
-
- * Drag and drop an image or a video play it.
- * Key: Control + Q 
-    Quit the applications.
- * Key: Z 
-    Set the image to natural aspect ratio.
- * Key: X 
-    Set the image to stretch aspect ratio.
- * Key: A, W, S, D 
-    Rotate the image.
- * Key: Escape key
-    Stops the image or video.
- * Key: Space bar
     Switch between hide and show image in the player.
 
