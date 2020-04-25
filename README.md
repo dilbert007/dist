@@ -6,7 +6,7 @@ This is a small cross platform (Mac, W10 and Linux) to play videos and photos ea
 
 It will open a player in full screen on the second monitor (or TV) and you can show the photos or videos there.
 
-### Cardula
+### Mango
 
 Load all photos and videos from a folder or add a signle item.
 
