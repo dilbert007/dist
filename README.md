@@ -31,3 +31,15 @@ Load all photos and videos from a folder or add a signle item.
   * Space bar
     Switch between hide and show image in the player.
 
+
+**New Features**
+
+ * Drag and drop images or videos to add them to the list.
+ * Aspect ratio fixed in the player.
+ * Deb package created
+ 
+ **TODO:**
+ 
+ * Fix the aspect ratio for the thumbnails.
+ * Convert the video and images in an media object to simplify the code.
+ * Interact with a WEBRTC Meeting / conference application.
