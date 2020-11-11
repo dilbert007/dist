@@ -29,7 +29,7 @@ Load all photos and videos from a folder or add a signle item.
   * Escape key
     Stops the image or video.
   * Space bar
-    Switch between hide and show image in the player.
+    Play / pause the player.
 
 
 **New Features**
