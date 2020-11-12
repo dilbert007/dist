@@ -1,6 +1,6 @@
-# Mango binary repo 
+# Mango binary repo
 
-## Application 
+## Application
 
 This is a small cross platform (Mac, W10 and Linux) to play videos and photos easily.
 
@@ -12,19 +12,19 @@ Load all photos and videos from a folder or add a signle item.
 
 **Help**
 
-  * Control + F 
+  * Control + F
     Load all the images or videos from a folder.
-  * Control + I 
+  * Control + I
     Load one image or video.
-  * Control + R 
+  * Control + R
     Clear all.
-  * Control + Q 
+  * Control + Q
     Quit the applications.
-  * Z 
+  * Z
     Set the image to natural aspect ratio.
-  * X 
+  * X
     Set the image to stretch aspect ratio.
-  * A, W, S, D 
+  * A, W, S, D
     Rotate the image.
   * Escape key
     Stops the image or video.
@@ -37,9 +37,9 @@ Load all photos and videos from a folder or add a signle item.
  * Drag and drop images or videos to add them to the list.
  * Aspect ratio fixed in the player.
  * Deb package created
- 
+
  **TODO:**
- 
+
  * Fix the aspect ratio for the thumbnails.
  * Convert the video and images in an media object to simplify the code.
  * Interact with a WEBRTC Meeting / conference application.
